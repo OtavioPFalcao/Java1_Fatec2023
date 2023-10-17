@@ -6,13 +6,13 @@ public class Exer1 {
         char continuar;
 
         do {
-            System.out.print("Digite o valor de a: ");
+            System.out.print("Digite o valor x: ");
             int a = scanner.nextInt();
 
-            System.out.print("Digite o valor de b: ");
+            System.out.print("Digite o valor y: ");
             int b = scanner.nextInt();
 
-            System.out.print("Digite o valor de c: ");
+            System.out.print("Digite o valor z: ");
             int c = scanner.nextInt();
 
             // Ordenação dos valores
