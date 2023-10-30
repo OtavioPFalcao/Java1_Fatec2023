@@ -1,0 +1,9 @@
+1 - Defina uma classe Empregadoque possua como atributos o numeroe o nomeestes valores devem ser fornecidos pelo usuário no método construtor. Implemente os métodos getNumero(que retorna o atributo numero) e getNome(que retorna o atributo nome).
+
+2 - Defina uma classe Vendedorcomo uma subclasse da classe Empregado que possui como atributos salario_base,valor_vendas_mes(que armazena o valor todas das vendas realizadas no mês)  perc_comissao(que armazena a percentagem da comissão do vendedor), estes valores devem ser fornecidos pelo usuário no método construtor (obs.: antes de pedir a digitação destes valores chame o método construtor da superclasse). Implemente o método valor_do_salarioque calculará e retornará o valor do salário no mês (salario_base+valor_vendas_mês*perc_comissao).
+
+3 - Defina uma classe Gerentecomo uma subclasse da classe Empregadoque possui como atributo salario_mensal(este valor deve fornecido pelo usuário no método construtor – obs.: antes faça a chamada o método construtor da superclasse). Implemente o método valor_do_salarioque retornará o valor do salário no mês.
+
+4 - Defina uma classe Horistacomo uma subclasse da classe Empregadoque possui como atributo valor_horae horas_trabalhadas(estes valores devem fornecidos pelo usuário no método construtor – obs.: antes faça a chamada o método construtor da superclasse). Implemente o método valor_do_salarioque calculará e retornará o valor do salário no mês.
+
+5 - Na classe Principal, defina o método maindeclarando três objetos e1, e2, e e3 da classe Empregado, instancie e1 como Vendedor, e2 como Gerente e e3 como Horista. Exiba o número, o nome e o valor do salário do empregado que possuir o maior salário.
