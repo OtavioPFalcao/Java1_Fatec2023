@@ -1,4 +1,3 @@
-package Tarefa
 public class Refrigerante extends Bebida {
     private boolean retornavel;
 
