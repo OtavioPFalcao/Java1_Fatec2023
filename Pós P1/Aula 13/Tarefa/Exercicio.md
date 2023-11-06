@@ -1,1 +1,4 @@
 Implemente  uma  classe Bebidaque  contenha o  nome, preco  (todos  protected).  Estes  valores deverão ser informados pelo usuário no método construtor.Faça os métodos getters e setters de todos os atributos. Faça as seguintes classes filhas:Refrigerante, com o atributo retornável. Métodos construtor e  mostraBebida, o qual imprime os dados do refrigerante.Suco, com o atributo sabor. Métodos construtor e  mostraBebida, o qual imprime os dados do suco.Vinho,  com  o  atributo  safra  (ano).  Métodos  construtor  e    mostraBebida,  o  qual  imprime  os dados do vinho.Na  classe  Principal,  implemente  o  método maindeclarando e  criando três vetores,  para  cada tipo de bebida.Bebidas1.CadastrarA.RefrigeranteB.SucoC.Vinho2.ImprimirA.RefrigeranteB.SucoC.Vinho3. Sair
+
+
+Não está Funcionando!
