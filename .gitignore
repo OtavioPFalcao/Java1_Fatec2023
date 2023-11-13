@@ -1,4 +1,4 @@
 /.metadata/
-.vscode
-Java
-.gitignore
+/.vscode/
+/Java/
+/.gitignore/
